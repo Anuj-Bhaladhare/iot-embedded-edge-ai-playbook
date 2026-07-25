@@ -1,3 +1,6 @@
+https://chatgpt.com/c/6a63a9d1-fa48-83e8-9bf6-8d8e642ab30e
+
+
 iot-embedded-edge-ai/
 │
 ├── README.md                  # Overall guide, how to use the repo
